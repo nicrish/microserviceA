@@ -57,4 +57,5 @@ console.log(events);
 ```
 
 #C. 
+<img width="795" alt="Screenshot 2025-05-19 at 3 34 33 PM" src="https://github.com/user-attachments/assets/84c55e17-16ca-4f6d-9bee-6fd13fa51c82" />
 
